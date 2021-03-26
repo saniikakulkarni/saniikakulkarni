@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
 
+### A Computer Science Student
 
 - :woman_technologist: Web Developer and Coding Enthusiast
 - :brain: Currently learning Machine Learning and Deep Learning
@@ -12,11 +13,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sanika Kulkarni | Gmail" width="25px" src="" />][lGmail]
 
-[<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
+[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][Hackerrank]
+[<img align="left" alt="saniika | codechef" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
+
+[<img align="left" alt="sanika_k_goa | Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][Hackerrank]
 
 <br />
 
@@ -54,5 +57,6 @@
 
 [Codechef]: https://www.codechef.com/users/saniika
 
-
 [Hackerrank]: https://www.hackerrank.com/sanika_k_goa
+
+[Gmail]:
