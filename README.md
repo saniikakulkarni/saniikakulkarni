@@ -41,8 +41,6 @@
 <hr>
 
 #### Github Status
-#
-<br />
 
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
