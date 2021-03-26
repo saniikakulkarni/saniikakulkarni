@@ -1,8 +1,6 @@
-## Hi there, I'm Sanika Kulkarni 👋
+## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sanika Kulkarni[](https://komarev.com/ghpvc/?username=saniikakulkarni&color=blue)
 
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
-
-### A second year Computer Science student
 
 - :woman_technologist: Web Developer and Coding Enthusiast
 - :brain: Currently learning Machine Learning and Deep Learning
