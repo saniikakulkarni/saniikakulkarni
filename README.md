@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
 
-#### I am Second year Computer Science student
+### I am Second year Computer Science student
 <hr />
 
 - 🔭 Love to code and a Web Developer
@@ -10,8 +10,7 @@
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
+#### Connect with me:
 <hr />
 
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,8 +21,9 @@
 
 <br />
 
-### Languages and Frameworks:
+#### Languages and Frameworks:
 <hr />
+
 <img align="left" alt="C" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 <img align="left" alt="Java" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
@@ -40,10 +40,10 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 <br />
+
+#### Github Status
 <hr />
 
-## Github Status
-<hr />
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniikakulkarni&layout=compact)](https://github.com/saniikakulkarni/github-readme-stats)
