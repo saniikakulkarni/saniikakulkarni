@@ -1,6 +1,8 @@
-## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sanika Kulkarni[](https://komarev.com/ghpvc/?username=saniikakulkarni&color=blue)
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sanika Kulkarni[](https://komarev.com/ghpvc/?username=saniikakulkarni&color=blue)
 
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
 - :woman_technologist: Web Developer and Coding Enthusiast
 - :brain: Currently learning Machine Learning and Deep Learning
