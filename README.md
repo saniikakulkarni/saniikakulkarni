@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
 
-### I am Second year Computer Science student
+### A second year Computer Science student
 
-- 🔭 Love to code and a Web Developer
+- :woman_technologist: Web Developer
 - 🌱 Currently learning Machine Learning and Deep Learning
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
