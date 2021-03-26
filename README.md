@@ -10,7 +10,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 #### Connect with me:
+#
 <hr />
+
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
@@ -20,7 +22,9 @@
 <br />
 
 #### Languages and Frameworks:
+#
 <hr />
+
 <img align="left" alt="C" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 <img align="left" alt="Java" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
@@ -39,7 +43,9 @@
 <br />
 
 #### Github Status
+#
 <hr />
+
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniikakulkarni&layout=compact)](https://github.com/saniikakulkarni/github-readme-stats)
