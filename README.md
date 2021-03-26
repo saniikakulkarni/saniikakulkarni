@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sanika Kulkarni | Gmail" width="25px" src="" />][lGmail]
+[<img align="left" alt="Sanika Kulkarni | Gmail" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][lGmail]
 
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
