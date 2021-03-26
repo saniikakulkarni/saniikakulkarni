@@ -28,7 +28,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-      <[![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/sanikakularni/github-readme-stats)
+      <[![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
