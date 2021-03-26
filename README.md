@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
 
 ### I am Second year Computer Science student
-#
 
 - 🔭 Love to code and a Web Developer
 - 🌱 Currently learning Machine Learning and Deep Learning
@@ -11,7 +10,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 #### Connect with me:
-
+#
+<br />
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
@@ -22,6 +22,7 @@
 
 #### Languages and Frameworks:
 #
+<br />
 
 <img align="left" alt="C" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=26px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
@@ -42,6 +43,7 @@
 
 #### Github Status
 #
+<br />
 
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
