@@ -2,8 +2,8 @@
 
 #### I am Second year Computer Science student
 
-- 🔭 LOve to code and a web developer
-- 🌱 Currently learning machine learning and deep learning
+- 🔭 Love to code and a Web Developer
+- 🌱 Currently learning Machine Learning and Deep Learning
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -27,6 +27,7 @@
 <br />
 <br />
 <hr />
+
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
