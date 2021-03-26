@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### :zap: Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Sanika Kulkarni | Gmail" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
 
@@ -21,7 +21,7 @@
 
 <br />
 
-### :zap: Languages and Frameworks:
+### Languages and Frameworks:
 
 <img align="left" alt="C" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
