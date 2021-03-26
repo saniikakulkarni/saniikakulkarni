@@ -57,4 +57,4 @@
 
 [Hackerrank]: https://www.hackerrank.com/sanika_k_goa
 
-[Gmail]: sanika.k.goa@gmail.com
+[Gmail]: mailto:sanika.k.goa@gmail.com 
