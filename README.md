@@ -1,8 +1,8 @@
 ### Hi there, I'm Sanika Kulkarni 👋
 
-#### I am Second year computer science student
+#### I am Second year Computer Science student
 
-- 🔭 Love to code
+- 🔭 LOve to code and a web developer
 - 🌱 Currently learning machine learning and deep learning
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
