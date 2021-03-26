@@ -42,7 +42,7 @@
 
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
 
-[Codechef]: hhttps://www.codechef.com/users/saniika
+[Codechef]: https://www.codechef.com/users/saniika
 
 
-[Hackerrank]: hhttps://www.codechef.com/users/saniika
+[Hackerrank]: https://www.hackerrank.com/sanika_k_goa
