@@ -13,13 +13,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sanika Kulkarni | Gmail" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
+[<img align="left" alt="Sanika Kulkarni | Gmail" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
 
-[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="27px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="33px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
 
-[<img align="left" alt="saniika | codechef" width="29px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/codechef.jpg" />][Codechef]
+[<img align="left" alt="saniika | codechef" width="36px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/codechef.jpg" />][Codechef]
 
-[<img align="left" alt="sanika_k_goa | Hackerrank" width="29px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/hackerrank.png" />][Hackerrank]
+[<img align="left" alt="sanika_k_goa | Hackerrank" width="36px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/hackerrank.png" />][Hackerrank]
 
 <br />
 
