@@ -1,5 +1,7 @@
 ### Hi there, I'm Sanika Kulkarni 👋
 
+![](https://komarev.com/ghpvc/?username=saniikakulkarni&color=green)
+
 #### I am Second year Computer Science student
 
 - 🔭 Love to code and a Web Developer
