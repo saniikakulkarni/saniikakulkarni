@@ -12,7 +12,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
+
+[<img align="left" alt="saniika | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][Hackerrank]
 
 <br />
 
@@ -38,4 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniikakulkarni&layout=compact)](https://github.com/saniikakulkarni/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
+
 [Codechef]: hhttps://www.codechef.com/users/saniika
+
+
+[Hackerrank]: hhttps://www.codechef.com/users/saniika
