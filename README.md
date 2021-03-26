@@ -30,4 +30,6 @@
 
 [![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniikakulkarni)](https://github.com/saniikakulkarni/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniikakulkarni&layout=compact)](https://github.com/saniikakulkarni/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
