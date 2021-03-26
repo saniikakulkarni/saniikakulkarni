@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -20,7 +20,7 @@
 
 <br />
 
-#### Languages and Frameworks:
+### Languages and Frameworks:
 
 <img align="left" alt="C" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
@@ -41,7 +41,7 @@
 
 <hr>
 
-#### Github Status
+### Github Status
 
 <p align="center">
     <a href="https://github.com/saniikakulkarni">
