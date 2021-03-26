@@ -15,11 +15,11 @@
 
 [<img align="left" alt="Sanika Kulkarni | Gmail" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
 
-[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sanika Kulkarni | LinkedIn" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
 
-[<img align="left" alt="saniika | codechef" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
+[<img align="left" alt="saniika | codechef" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/codechef.jpg" />][Codechef]
 
-[<img align="left" alt="sanika_k_goa | Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][Hackerrank]
+[<img align="left" alt="sanika_k_goa | Hackerrank" width="25px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/hackerrank.png" />][Hackerrank]
 
 <br />
 
@@ -59,4 +59,4 @@
 
 [Hackerrank]: https://www.hackerrank.com/sanika_k_goa
 
-[Gmail]:
+[Gmail]: sanika.k.goa@gmail.com
