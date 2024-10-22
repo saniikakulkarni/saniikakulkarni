@@ -4,10 +4,7 @@
 
 ### A Computer Science Student
 
-- :woman_technologist: Web Developer and Coding Enthusiast
 - :brain: Currently learning Machine Learning and Deep Learning
-- 👯 Looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
