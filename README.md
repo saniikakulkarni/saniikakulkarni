@@ -5,6 +5,7 @@ Hey 👋 I am Sanika Kulkarni
 [<img align="left" alt="Sanika Kulkarni | Gmail" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
 <br />
+<br />
 ### Languages and Frameworks:
 <img align="left" alt="C" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
@@ -36,4 +37,4 @@ Hey 👋 I am Sanika Kulkarni
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
 [Codechef]: https://www.codechef.com/users/saniika
 [Hackerrank]: https://www.hackerrank.com/sanika_k_goa
-[Gmail]: mailto:sanika.k.goa@gmail.com
+[Gmail]: mailto:sanika.k.goa@gmail.com 
