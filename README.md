@@ -12,10 +12,6 @@
 
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
 
-[<img align="left" alt="saniika | codechef" width="34px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/codechef.jpg" />][Codechef]
-
-[<img align="left" alt="sanika_k_goa | Hackerrank" width="37px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/hackerrank.png" />][Hackerrank]
-
 <br />
 
 ### Languages and Frameworks:
