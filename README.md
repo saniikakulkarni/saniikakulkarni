@@ -2,9 +2,9 @@
 
 <img align="right" width="330px" alt="GIF" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
-### A Computer Science Student
+### A Machine Learning Engineer and Data Science Enthusiast
 
-- :brain: Currently learning Machine Learning and Deep Learning
+- :brain: Currently learning more on LLMs and RAG system advancements.
 
 ### Connect with me:
 
