@@ -1,25 +1,22 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sanika Kulkarni
-
+Hey 👋 I am Sanika Kulkarni
 <img align="right" width="330px" alt="GIF" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
-
 ### A Machine Learning Engineer and Data Science Enthusiast
-
 ##### Connect with me:
-
 [<img align="left" alt="Sanika Kulkarni | Gmail" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
-
 [<img align="left" alt="Sanika Kulkarni | LinkedIn" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
-
 <br />
-
 ### Languages and Frameworks:
-
 <img align="left" alt="C" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 <img align="left" alt="C++" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 <img align="left" alt="Java" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flask.svg" />
+<img align="left" alt="Scikit-learn" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />
+<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="PHP" width=30px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,22 +26,15 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 <br />
-
 <hr>
-
 ### :zap: Github Status
-
 <p align="center">
     <a href="https://github.com/saniikakulkarni">
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=saniikakulkarni&count_private=true&show_icons=true&hide_title=true"/>
     <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniikakulkarni&langs_count=6&layout=compact"/>
     </a>
 </p>
-
 [linkedin]: https://www.linkedin.com/in/sanika-kulkarni-34b403192/
-
 [Codechef]: https://www.codechef.com/users/saniika
-
 [Hackerrank]: https://www.hackerrank.com/sanika_k_goa
-
-[Gmail]: mailto:sanika.k.goa@gmail.com 
+[Gmail]: mailto:sanika.k.goa@gmail.com
