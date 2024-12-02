@@ -4,8 +4,6 @@
 
 ### A Machine Learning Engineer and Data Science Enthusiast
 
-- :brain: Currently learning more on LLMs and RAG system advancements.
-
 ### Connect with me:
 
 [<img align="left" alt="Sanika Kulkarni | Gmail" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/gmail.png" />][Gmail]
